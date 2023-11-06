@@ -1,0 +1,6 @@
+move_field("RDF", "metadata.RDF")
+copy_field("metadata.RDF.ProvidedCHO.identifier.value", "metadata.id")
+
+
+move_field("metadata.RDF.ProvidedCHO", "RDF.edm:ProvidedCHO[]")
+move_field("metadata.RDF.Aggregation", "RDF.ore:Aggregation[]")
