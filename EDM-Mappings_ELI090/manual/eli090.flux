@@ -1,16 +1,16 @@
 //declare variables
 
-default fName = "danrw_prod-001.xml";
+default fName = "resources/EDM-05.xml";
 
 default file = FLUX_DIR + fName;
-default fixFile = FLUX_DIR + "edm.fix";
+default fixFile = FLUX_DIR + "conf/ela090.fix";
 
 file
 |open-file
 |decode-xml
 |handle-generic-xml(emitNamespace="true")
 |fix(fixFile)
-|encode-json(prettyPrinting="true")
+|encode-json(prettyPrinting="false")
 // |json-to-elasticsearch-bulk
 | write(FLUX_DIR + fName +".json")
 ;

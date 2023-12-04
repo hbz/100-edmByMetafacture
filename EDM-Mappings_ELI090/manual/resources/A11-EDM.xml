@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<record>
+  <header>
+    <identifier>danrw:dips-A11x</identifier>
+    <datestamp>2023-03-21T21:24:27Z</datestamp>
+  </header>
+  <metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:edm="http://www.europeana.eu/schemas/edm/" 
+         xmlns:dc="http://purl.org/dc/elements/1.1/" 
+         xmlns:dcterms="http://purl.org/dc/terms/" 
+         xmlns:ore="http://www.openarchives.org/ore/terms/">
+    <edm:ProvidedCHO rdf:about="A 11">
+        <dc:title xml:lang="de">Verbannung des ehemaligen Syndikus Arnold Judendunck aus Köln [wegen Amtsmissbrauch] (Druck der Sentenz Leopold I.)</dc:title>
+        <dc:description xml:lang="de">Möglicherweise aus Best. 30N A 303 oder aus Best. 38. ggfs. auch unerschlossener Teil Best. 50.</dc:description>
+        <dc:language>de</dc:language>
+        <dc:type>Archivalie</dc:type>
+        <dc:type>Urkunde</dc:type>
+        <dc:identifier>A 11</dc:identifier>
+        <dc:identifier>X-Best. 6100 (Reichsstadt Köln), A 11</dc:identifier> 
+        <dc:rights>Historisches Stadtarchiv Köln</dc:rights>
+        <dc:publisher>Historisches Stadtarchiv Köln</dc:publisher>
+        <dcterms:created>1687-04-04</dcterms:created>
+        <dc:date>1687 April 4</dc:date>
+        <edm:type>TEXT</edm:type>
+    </edm:ProvidedCHO>
+    <ore:Aggregation rdf:about="FF32530D-CA8C-39C6-D86C-1DCE05372A3B-000013497_0001">
+        <edm:aggregatedCHO rdf:resource="A 11"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadtarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=8E87D41C-5AAF-4F61-ABA5-8572622DB20F_000013497_Orig_n_kons1_20170323082853.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml</edm:isShownAt>
+        <edm:object rdf:resource="FF32530D-CA8C-39C6-D86C-1DCE05372A3B-000013497_0001.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="E43908C1-CDDB-6A76-01C0-802688C78C79-000013497_0002">
+        <edm:aggregatedCHO rdf:resource="A 11"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadtarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=8E87D41C-5AAF-4F61-ABA5-8572622DB20F_000013497_Orig_n_kons1_20170323082853.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml</edm:isShownAt>
+        <edm:object rdf:resource="E43908C1-CDDB-6A76-01C0-802688C78C79-000013497_0002.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="21F20124-9919-D916-5DF2-6F511E4D5E36-000013497_0003">
+        <edm:aggregatedCHO rdf:resource="A 11"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadtarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=8E87D41C-5AAF-4F61-ABA5-8572622DB20F_000013497_Orig_n_kons1_20170323082853.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml</edm:isShownAt>
+        <edm:object rdf:resource="21F20124-9919-D916-5DF2-6F511E4D5E36-000013497_0003.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+</rdf:RDF>
+</metadata>
+</record>

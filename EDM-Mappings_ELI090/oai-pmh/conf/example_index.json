@@ -1,0 +1,90 @@
+{
+   "_id" : "8-20221017433092-md11628",
+   "_index" : "portal_test-20210223140108",
+   "_source" : {
+      "@id" : "http://danrw-q-repo.hbz-nrw.de/aggregation/8-20221017433092-md11628",
+      "@institutionType" : "Bibliothek",
+      "@root" : "true",
+      "@type" : "ore:Aggregation",
+      "edm:aggregatedCHO" : {
+         "@id" : "http://danrw-q-repo.hbz-nrw.de/cho/8-20221017433092-md11628",
+         "@type" : "edm:ProvidedCHO",
+         "dc:creator" : [
+            "Komponist: Rohleder, Gottlieb"
+         ],
+         "dc:identifier" : [
+            "8-20221017433092",
+            "CT002011459",
+            "HBZHT013727208",
+            "urn:nbn:de:hbz:5:1-141521",
+            "urn:nbn:de:hbz:5:1-141511"
+         ],
+         "dc:publisher" : [
+            "Universitäts- und Landesbibliothek (Bonn)",
+            "in Commission bey Adam Friedrich Böhme (Leipzig)"
+         ],
+         "dc:rights" : [
+            "https://creativecommons.org/publicdomain/mark/1.0/"
+         ],
+         "dc:title" : [
+            "Der Sommer : ein Singstück"
+         ],
+         "dcterms:created" : [
+            "2020"
+         ],
+         "dcterms:extent" : [
+            "1 Klavierauszug (2 Bände)"
+         ],
+         "dcterms:hasPart" : {
+            "@id" : "http://danrw-q-repo.hbz-nrw.de/cho/8-20221017433092-md11629",
+            "@type" : "edm:ProvidedCHO",
+            "dc:identifier" : [
+               "urn:nbn:de:hbz:5:1-141511",
+               "HBZHT013727214",
+               "CT002011458",
+               "8-20221017433092"
+            ],
+            "dc:publisher" : [
+               "Universitäts- und Landesbibliothek (Bonn)",
+               "in Commission bey Adam Friedrich Böhme (Leipzig)"
+            ],
+            "dc:rights" : [
+               "https://creativecommons.org/publicdomain/mark/1.0/"
+            ],
+            "dcterms:created" : [
+               "2020"
+            ],
+            "dcterms:extent" : [
+               "1 Klavierauszug (4 ungezählte Seiten, 40 Seiten)"
+            ],
+            "dcterms:isPartOf" : [
+               "http://danrw-q-repo.hbz-nrw.de/cho/8-20221017433092-md11628"
+            ],
+            "dcterms:issued" : [
+               "1785"
+            ]
+         },
+         "dcterms:issued" : [
+            "1785"
+         ],
+         "edm:hasType" : [
+            "is root element"
+         ]
+      },
+      "edm:dataProvider" : "Universitäts- und Landesbibliothek Bonn",
+      "edm:isShownBy" : {
+         "@id" : "http://localhost:2193/download/webcache/304/11632"
+      },
+      "edm:object" : {
+         "@id" : "http://localhost:2193/download/webcache/304/11632"
+      },
+      "edm:rights" : [
+         {
+            "@id" : "https://creativecommons.org/publicdomain/mark/1.0/"
+         }
+      ]
+   },
+   "_type" : "ore:Aggregation",
+   "_version" : 1,
+   "exists" : true
+}
