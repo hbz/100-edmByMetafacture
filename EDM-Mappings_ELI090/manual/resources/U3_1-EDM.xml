@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<record>
+  <header>
+    <identifier>danrw:dips-U3_1</identifier>
+    <datestamp>2023-03-21T21:24:27Z</datestamp>
+  </header>
+  <metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:edm="http://www.europeana.eu/schemas/edm/" 
+         xmlns:dc="http://purl.org/dc/elements/1.1/" 
+         xmlns:dcterms="http://purl.org/dc/terms/" 
+         xmlns:ore="http://www.openarchives.org/ore/terms/">
+    <edm:ProvidedCHO rdf:about="94F721BC-F97B-4147-8544-91FCE096BD81">
+        <dc:title xml:lang="de">Köln. - Erzbischof Hermannus [Hermann I.] versetzt die vertriebenen Nonnen von Gerrichesheim [Gerresheim] in das Kloster der 11000 Jungfrauen zu Köln</dc:title>
+        <dc:description xml:lang="de">Köln. - Erzbischof Hermannus [Hermann I.] versetzt die vertriebenen Nonnen von Gerrichesheim [Gerresheim] in das Kloster der 11000 Jungfrauen zu Köln und bestätigt die Güter. (regn. reg. Karolo et Heinrico, ind. 10., 3. id. aug. Heribuertus canc. scripsit hanc cart.)</dc:description>
+        <dc:description>Zeugen: Archiepiscopus: Hermani qui hanc donationis cartam fieri et firmari iussit; Praepositi: Odilanis, Adalbertis; Presbyteri: Erpgisi Thru/aduuini, Altberti, Ripuu/arii, Vuunonis, Alberici, Herimanni, Gerhardi, Godeberti, Folradi, Gunthardi, Thiedonis, Hildiberti, Ratfridi, Alfuuini, Gerberti, Meginolfi, Gu/aubertis, Adalhardi, Athilini, Vr/Thiderici; Diaconi: U/Vuicfridi, Engilberti, Liutberti, Alberici, Ruotberti, Rutuuigi, Gislberti, Reginboldi, Item Ruotberti, Lanzonis, Meginleiui; Subdiakone: otru/ammi, adalgeri, Mathalgozi, Martini, adalboldi, athalnothi, Hiltuuini, Cunstauuli, helmuuardi, Gozmari; [accoliti]: Odd[l]fi, Ste[p]hani, Be[r]engeri, Godefridi, Vualdolfi, Adonis, Ratarii, Euerhardi, Herigeri, [I]mmonis; [[l]aci] = laici = Laien, [e]cuuini, Reginoldi, Landolochi, Vroldi/Upoldi, Adalhardi, Hildiboldi, Vuolfridi, Geueb/hardi, Beroldi; Comites (Grafen), Herimanni, Adalhardi, Copponis, Fritheriti, Heriradi, Vuu/anboldi, Huunfridi, Amalrici, Heimerici, item Heimerici, Vuolfridi, Heriradi, Hatb/hageri, Gerberti, Sigiberti, Gunntrammi, Herifridi, Vuulachonis, Ru/atberti, Aluani, Huunberti, Ruotgeri, Irimfridi, Otberti </dc:description>
+        <dc:language>la</dc:language>
+        <dc:type>Archivalie</dc:type>
+        <dc:type>Urkunde</dc:type>
+        <dc:creator rdf:about="https://d-nb.info/gnd/137326173">Hermann I., Erzbischof von Köln</dc:creator>
+        <dc:identifier>94F721BC-F97B-4147-8544-91FCE096BD81</dc:identifier>
+        <dc:identifier>U 3/1*</dc:identifier>
+        <dc:identifier>Best. 1 (Haupturkundenarchiv (HUA)), U 3/1*</dc:identifier> 
+        <dc:rights>Historisches Stadtarchiv Köln</dc:rights>
+        <dc:publisher>Historisches Stadtarchiv Köln</dc:publisher>
+        <dc:date>[922] August 11, [11.Jh. - 12. Jh.]</dc:date>
+        <dcterms:temporal>[11.Jh. - 12. Jh.]</dcterms:temporal>
+        <dcterms:issued>2010-02-11</dcterms:issued>
+        <dcterms:extent>Nachzeichnung eines verlorenen Originals aus dem 11. oder 12. Jh. Rückseite in braun-roter Maiuskel: "Carta traditionis vel donationis facta et firmata apla patri Hermanno Archiepiscopo ad monasterium sacarum XI Virgines [...]", später zugefügt: "de 922" Knicke alter Faltung. Unten rechts alter Riss mit Vernähung mit rotem Faden. </dcterms:extent>
+        <dcterms:isReferencedBy rdf:resource="http://d-nb.info/945031661">Gedr.: Rheinisches UB 317</dcterms:isReferencedBy>
+        <dcterms:reference>REK I 311</dcterms:reference>
+        <dcterms:reference rdf:resource="https://www.kulturelles-erbe-koeln.de/documents/obj/05242724">RBA 48727 und 59201 (letztere z.T. unscharf).</dcterms:reference>
+        <dcterms:provenance>Dauerleihgabe des Kölner Gymnasial- und Stiftungsfonds.</dcterms:provenance>
+        <edm:type>TEXT</edm:type>
+    </edm:ProvidedCHO>
+    <ore:Aggregation rdf:about="0BC9DE0B-DCFC-B04D-8374-9D7CF90F1137-02274712">
+        <edm:aggregatedCHO rdf:resource="94F721BC-F97B-4147-8544-91FCE096BD81"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=E09F59A5-2139-41C9-AF4F-AC07056FEBBE_U1.0_1A_Mikrofilm_20160719115541.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vz++++++7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs#Vz______7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs</edm:isShownAt>
+        <edm:object rdf:resource="0BC9DE0B-DCFC-B04D-8374-9D7CF90F1137-02274712.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="759C7B65-B456-EFDD-C3F4-8889B90A9359-02274713">
+        <edm:aggregatedCHO rdf:resource="94F721BC-F97B-4147-8544-91FCE096BD81"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=E09F59A5-2139-41C9-AF4F-AC07056FEBBE_U1.0_1A_Mikrofilm_20160719115541.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vz++++++7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs#Vz______7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs</edm:isShownAt>
+        <edm:object rdf:resource="759C7B65-B456-EFDD-C3F4-8889B90A9359-02274713.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="58A15B1F-64FE-CFCD-1EB5-22372B302010-02274714">
+        <edm:aggregatedCHO rdf:resource="94F721BC-F97B-4147-8544-91FCE096BD81"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=E09F59A5-2139-41C9-AF4F-AC07056FEBBE_U1.0_1A_Mikrofilm_20160719115541.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vz++++++7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs#Vz______7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs</edm:isShownAt>
+        <edm:object rdf:resource="58A15B1F-64FE-CFCD-1EB5-22372B302010-02274714.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="38E710D2-327C-02F9-F0DE-B9AD6B0B210A-02274715">
+        <edm:aggregatedCHO rdf:resource="94F721BC-F97B-4147-8544-91FCE096BD81"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=E09F59A5-2139-41C9-AF4F-AC07056FEBBE_U1.0_1A_Mikrofilm_20160719115541.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vz++++++7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs#Vz______7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs</edm:isShownAt>
+        <edm:object rdf:resource="38E710D2-327C-02F9-F0DE-B9AD6B0B210A-02274715.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="34C29116-1944-4D8C-FEDB-1DACF17437AF-02274716">
+        <edm:aggregatedCHO rdf:resource="94F721BC-F97B-4147-8544-91FCE096BD81"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=E09F59A5-2139-41C9-AF4F-AC07056FEBBE_U1.0_1A_Mikrofilm_20160719115541.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vz++++++7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs#Vz______7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs</edm:isShownAt>
+        <edm:object rdf:resource="34C29116-1944-4D8C-FEDB-1DACF17437AF-02274716.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="B46F6E51-83F4-1356-83C6-AE3690474F1E-02274717">
+        <edm:aggregatedCHO rdf:resource="94F721BC-F97B-4147-8544-91FCE096BD81"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=E09F59A5-2139-41C9-AF4F-AC07056FEBBE_U1.0_1A_Mikrofilm_20160719115541.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vz++++++7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs#Vz______7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs</edm:isShownAt>
+        <edm:object rdf:resource="B46F6E51-83F4-1356-83C6-AE3690474F1E-02274717.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="E812D469-15FE-C28B-5BFA-81B36E4F0BC0-02274718">
+        <edm:aggregatedCHO rdf:resource="94F721BC-F97B-4147-8544-91FCE096BD81"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=E09F59A5-2139-41C9-AF4F-AC07056FEBBE_U1.0_1A_Mikrofilm_20160719115541.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vz++++++7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs#Vz______7A3EEF94-EA15-41B1-B931-AAE8F3AA2451lehrs</edm:isShownAt>
+        <edm:object rdf:resource="E812D469-15FE-C28B-5BFA-81B36E4F0BC0-02274718.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    </rdf:RDF></metadata></record>

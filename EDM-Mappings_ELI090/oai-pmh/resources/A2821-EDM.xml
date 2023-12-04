@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<record>
+  <header>
+    <identifier>danrw:dips-A2821</identifier>
+    <datestamp>2023-03-21T21:24:27Z</datestamp>
+  </header>
+  <metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:edm="http://www.europeana.eu/schemas/edm/" 
+         xmlns:dc="http://purl.org/dc/elements/1.1/" 
+         xmlns:dcterms="http://purl.org/dc/terms/" 
+         xmlns:ore="http://www.openarchives.org/ore/terms/">
+    <edm:ProvidedCHO rdf:about="5685329A-6355-48F1-A50D-5E000C2D1476">
+        <dc:title xml:lang="de">Streitigkeiten zwischen Soldaten und maskierten Personen in einem Wirtshaus an Karneval</dc:title>
+        <dc:language>fr</dc:language>
+        <dc:type>Archivalie</dc:type>
+        <dc:identifier>5685329A-6355-48F1-A50D-5E000C2D1476</dc:identifier>
+        <dc:identifier>A 2821</dc:identifier>
+        <dc:identifier>Best. 350 (Französische Verwaltung (FV)), A 2821</dc:identifier> 
+        <dc:rights>Historisches Stadtarchiv Köln</dc:rights>
+        <dc:publisher>Historisches Stadtarchiv Köln</dc:publisher>
+        <dc:date>1804</dc:date>
+        <dcterms:extent>3 Blatt</dcterms:extent>
+        <edm:type>TEXT</edm:type>
+    </edm:ProvidedCHO>
+    <ore:Aggregation rdf:about="454B6A0D-5086-8247-AA7C-E18057BDCF7E-04468194">
+        <edm:aggregatedCHO rdf:resource="5685329A-6355-48F1-A50D-5E000C2D1476"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadtarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=952F6743-D0E8-4473-B102-6745A2A5F52A_A2821.0_Mikrofilm_20161117125257.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vor+++++5685329A-6355-48F1-A50D-5E000C2D1476%26parent_id=#Vor_____5685329A-6355-48F1-A50D-5E000C2D1476</edm:isShownAt>
+        <edm:object rdf:resource="454B6A0D-5086-8247-AA7C-E18057BDCF7E-04468194.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="E036EEB8-D217-68C1-2021-70CEE1FC263A-04468195">
+        <edm:aggregatedCHO rdf:resource="5685329A-6355-48F1-A50D-5E000C2D1476"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadtarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=952F6743-D0E8-4473-B102-6745A2A5F52A_A2821.0_Mikrofilm_20161117125257.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vor+++++5685329A-6355-48F1-A50D-5E000C2D1476%26parent_id=#Vor_____5685329A-6355-48F1-A50D-5E000C2D1476</edm:isShownAt>
+        <edm:object rdf:resource="E036EEB8-D217-68C1-2021-70CEE1FC263A-04468195.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="636CF460-BB64-8797-40A5-CA47AF693F32-04468196">
+        <edm:aggregatedCHO rdf:resource="5685329A-6355-48F1-A50D-5E000C2D1476"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadtarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=952F6743-D0E8-4473-B102-6745A2A5F52A_A2821.0_Mikrofilm_20161117125257.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vor+++++5685329A-6355-48F1-A50D-5E000C2D1476%26parent_id=#Vor_____5685329A-6355-48F1-A50D-5E000C2D1476</edm:isShownAt>
+        <edm:object rdf:resource="636CF460-BB64-8797-40A5-CA47AF693F32-04468196.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="39C9FDFB-47DC-1C74-7C2E-E62EB56F86D6-04468197">
+        <edm:aggregatedCHO rdf:resource="5685329A-6355-48F1-A50D-5E000C2D1476"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadtarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=952F6743-D0E8-4473-B102-6745A2A5F52A_A2821.0_Mikrofilm_20161117125257.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vor+++++5685329A-6355-48F1-A50D-5E000C2D1476%26parent_id=#Vor_____5685329A-6355-48F1-A50D-5E000C2D1476</edm:isShownAt>
+        <edm:object rdf:resource="39C9FDFB-47DC-1C74-7C2E-E62EB56F86D6-04468197.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    <ore:Aggregation rdf:about="8953D860-A761-962C-98F7-0F98F2A4744D-04468198">
+        <edm:aggregatedCHO rdf:resource="5685329A-6355-48F1-A50D-5E000C2D1476"/>
+        <edm:dataProvider>Stadt Köln, Historisches Stadtarchiv</edm:dataProvider>
+        <edm:isShownBy rdf:resource="https://historischesarchivkoeln.de/viewer/?fileName=https%3A//historischesarchivkoeln.de/mets%3Fid=952F6743-D0E8-4473-B102-6745A2A5F52A_A2821.0_Mikrofilm_20161117125257.xml"/>
+        <edm:isShownAt>https://historischesarchivkoeln.de/archive.xhtml?id=Vor+++++5685329A-6355-48F1-A50D-5E000C2D1476%26parent_id=#Vor_____5685329A-6355-48F1-A50D-5E000C2D1476</edm:isShownAt>
+        <edm:object rdf:resource="8953D860-A761-962C-98F7-0F98F2A4744D-04468198.pdf"/>
+        <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
+        <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
+    </ore:Aggregation>
+    </rdf:RDF></metadata></record>
