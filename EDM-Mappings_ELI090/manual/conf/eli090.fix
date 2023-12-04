@@ -1,16 +1,14 @@
-# copy_field("header.identifier.value", "_id")
-remove_field("header")
 add_field("@institutionType", "Archiv")
 add_field("@root", "true")
 add_field("@type", "ore:Aggregation")
 
-move_field("metadata.rdf:RDF.edm:ProvidedCHO.rdf:about", "metadata.rdf:RDF.edm:ProvidedCHO.@id")
-add_field("metadata.rdf:RDF.edm:ProvidedCHO.@type", "providedCHO")
-move_field("metadata.rdf:RDF.edm:ProvidedCHO", "edm:aggregatedCHO")
-move_field("metadata.rdf:RDF.ore:Aggregation.1.edm:dataProvider.value", "edm:dataProvider")  
-move_field("metadata.rdf:RDF.ore:Aggregation.1.edm:rights.rdf:resource", "edm:rights[].@id")  
-move_field("metadata.rdf:RDF.ore:Aggregation.1.edm:object.rdf:resource", "edm:object.@id")  
-move_field("metadata.rdf:RDF.ore:Aggregation.1.edm:isShownBy.rdf:resource", "edm:isShownBy.@id")  
+move_field("edm:ProvidedCHO.rdf:about", "edm:ProvidedCHO.@id")
+add_field("edm:ProvidedCHO.@type", "providedCHO")
+move_field("edm:ProvidedCHO", "edm:aggregatedCHO")
+move_field("ore:Aggregation.1.edm:dataProvider.value", "edm:dataProvider")  
+move_field("ore:Aggregation.1.edm:rights.rdf:resource", "edm:rights[].@id")  
+move_field("ore:Aggregation.1.edm:object.rdf:resource", "edm:object.@id")  
+move_field("ore:Aggregation.1.edm:isShownBy.rdf:resource", "edm:isShownBy.@id")  
 
 
 do list(path: "edm:aggregatedCHO", "var":"$i")
@@ -78,15 +76,12 @@ do list(path: "edm:aggregatedCHO", "var":"$i")
   
 end
 
-
-move_field("metadata.rdf:RDF.ore:Aggregation", "rdf:RDF.ore:Aggregation")
-
 do list(path: "rdf:RDF.ore:Aggregation", "var":"$j")
   move_field("$j.edm:isShownAt.rdf:resource", "edm:aggregatedCHO.edm:isShownAt[]")
   remove_field("$j.edm:isShownAt")
 end
 
-remove_field("rdf:RDF.ore:Aggregation")
+remove_field("ore:Aggregation")
 
 
 vacuum()

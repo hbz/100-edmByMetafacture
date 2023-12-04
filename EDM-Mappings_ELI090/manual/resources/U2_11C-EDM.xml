@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<record>
-  <header>
-    <identifier>danrw:dips-U2_11C</identifier>
-    <datestamp>2023-03-21T21:24:27Z</datestamp>
-  </header>
-  <metadata>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
          xmlns:edm="http://www.europeana.eu/schemas/edm/" 
          xmlns:dc="http://purl.org/dc/elements/1.1/" 
@@ -48,4 +42,4 @@
         <edm:provider>Digitales Archiv Nordrhein-Westfalen</edm:provider>
         <edm:rights rdf:resource="http://rightsstatements.org/vocab/NKC/1.0/"/>
     </ore:Aggregation>
-    </rdf:RDF></metadata></record>
+</rdf:RDF>
