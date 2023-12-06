@@ -10,7 +10,7 @@ default dir = FLUX_DIR + "resources";
 // read from oai-pmh
 
 "https://danrw-q-repo.hbz-nrw.de/oai-pmh/2.0"
-|open-oaipmh(metadataPrefix="edm&from=2023-12-01")
+|open-oaipmh(metadataPrefix="edm&from=TIMESTAMP")
 |decode-xml
 |handle-generic-xml(emitNamespace="true")
 |fix(fixFile)
