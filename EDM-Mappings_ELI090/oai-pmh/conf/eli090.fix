@@ -1,4 +1,4 @@
-# copy_field("header.identifier.value", "_id")
+copy_field("header.identifier.value", "_id")
 remove_field("header")
 add_field("@institutionType", "Archiv")
 add_field("@root", "true")
