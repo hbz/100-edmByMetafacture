@@ -4,6 +4,9 @@ add_field("@institutionType", "Archiv")
 add_field("@root", "true")
 add_field("@type", "ore:Aggregation")
 
+move_field("metadata.rdf:RDF.edm:WebResource", "rdf:RDF.edm:WebResource")
+
+
 move_field("metadata.rdf:RDF.edm:ProvidedCHO.rdf:about", "metadata.rdf:RDF.edm:ProvidedCHO.@id")
 add_field("metadata.rdf:RDF.edm:ProvidedCHO.@type", "providedCHO")
 move_field("metadata.rdf:RDF.edm:ProvidedCHO", "edm:aggregatedCHO")
