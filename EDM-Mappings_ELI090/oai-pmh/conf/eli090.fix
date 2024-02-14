@@ -14,6 +14,7 @@ move_field("metadata.rdf:RDF.ore:Aggregation.edm:dataProvider.value", "edm:dataP
 move_field("metadata.rdf:RDF.ore:Aggregation.edm:rights.rdf:resource", "edm:rights[].@id")  
 move_field("metadata.rdf:RDF.ore:Aggregation.edm:object.rdf:resource", "edm:object.@id")  
 move_field("metadata.rdf:RDF.ore:Aggregation.edm:isShownBy.rdf:resource", "edm:isShownBy.@id")
+move_field("metadata.rdf:RDF.ore:Aggregation.edm:isShownAt.rdf:resource", "edm:isShownAt.@id")
 
 do list(path: "edm:aggregatedCHO", "var":"$i")
   move_field("$i.dc:creator.value", "$i.dc:creator[]")
@@ -84,7 +85,6 @@ end
 move_field("metadata.rdf:RDF.ore:Aggregation", "rdf:RDF.ore:Aggregation")
 
 do list(path: "rdf:RDF.ore:Aggregation", "var":"$j")
-  move_field("$j.edm:isShownAt.rdf:resource", "edm:aggregatedCHO.edm:isShownAt[]")
   remove_field("$j.edm:isShownAt")
 end
 
