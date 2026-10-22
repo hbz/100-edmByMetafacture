@@ -15,6 +15,6 @@ default dir = FLUX_DIR + "resources";
 |handle-generic-xml(emitNamespace="true")
 |fix(fixFile)
 |encode-json(prettyPrinting="true")
-|json-to-elasticsearch-bulk(index="EXINDEX", type="ore:Aggregation")
+|json-to-elasticsearch-bulk(index="ESINDEX", type="ore:Aggregation")
 |write-files(FLUX_DIR + "results/eli090.json", separator="--------")
 ;
